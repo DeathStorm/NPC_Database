@@ -16,5 +16,6 @@ namespace NPC_Database
         {
             InitializeComponent();
         }
+
     }
 }
